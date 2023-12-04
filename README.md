@@ -9,7 +9,7 @@
 - RAQUEL CALMON
  
 
-- LINK PARA O PITCH : <a href=" https://www.youtube.com/watch?v=BVj8tq1eWTI&ab_channel=LauCosta">Clique aqui</a>
+[Link para o pitch](https://www.youtube.com/watch?v=BVj8tq1eWTI&ab_channel=LauCosta)
 
 diagrama de classes 
 
