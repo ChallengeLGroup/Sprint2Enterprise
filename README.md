@@ -7,7 +7,6 @@
 - JOHANN MARZOLLA
 - LAU SAMPAIO BENTO COSTA
 - RAQUEL CALMON
-
 - Para rodar a aplicação ir para a classe Main dentro de org.example e rodar a classe. Para rodar os testes ir na pasta Test onde encontrará todas as classes de testes, escolher a classe que deseja e roda-la , caso algum componente do teste de erro , ir no componente individualmente para roda-lo.
 
 
